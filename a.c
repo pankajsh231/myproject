@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
-{
-printf("HELLO!!");
+int main()
+{printf("hello");
+printf("hello2");
 }
